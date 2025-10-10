@@ -60,8 +60,8 @@ var annotated_dup =
         [ "multi_value", "structcrow_1_1session_1_1multi__value.html", null ]
       ] ],
       [ "websocket", "namespacecrow_1_1websocket.html", [
-        [ "connection", "structcrow_1_1websocket_1_1connection.html", null ],
-        [ "Connection", "classcrow_1_1websocket_1_1_connection.html", "classcrow_1_1websocket_1_1_connection" ]
+        [ "Connection", "classcrow_1_1websocket_1_1_connection.html", "classcrow_1_1websocket_1_1_connection" ],
+        [ "connection", "structcrow_1_1websocket_1_1connection.html", null ]
       ] ],
       [ "bad_request", "structcrow_1_1bad__request.html", null ],
       [ "BaseRule", "classcrow_1_1_base_rule.html", null ],
@@ -88,7 +88,7 @@ var annotated_dup =
       [ "request", "structcrow_1_1request.html", "structcrow_1_1request" ],
       [ "response", "structcrow_1_1response.html", "structcrow_1_1response" ],
       [ "returnable", "structcrow_1_1returnable.html", null ],
-      [ "Router", "classcrow_1_1_router.html", "classcrow_1_1_router" ],
+      [ "Router", "classcrow_1_1_router.html", null ],
       [ "routing_handle_result", "structcrow_1_1routing__handle__result.html", null ],
       [ "RuleParameterTraits", "structcrow_1_1_rule_parameter_traits.html", "structcrow_1_1_rule_parameter_traits" ],
       [ "Server", "classcrow_1_1_server.html", "classcrow_1_1_server" ],
